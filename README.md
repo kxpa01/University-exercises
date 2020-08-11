@@ -1,3 +1,3 @@
 # University-exercises
 
-Just your regular university exercises on C.
+Just your regular university exercises on C and C++.
